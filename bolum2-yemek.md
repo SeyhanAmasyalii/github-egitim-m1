@@ -5,3 +5,4 @@
 
 ## Ulus
 - Ulus lokantalari
+  - Acilis: 11:00 - 22:00
