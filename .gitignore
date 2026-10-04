@@ -1,0 +1,14 @@
+# Gizli bilgiler - ASLA repoya girmez
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / isletim sistemi
+.vscode/
+.DS_Store
+Thumbs.db
